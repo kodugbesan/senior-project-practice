@@ -1,0 +1,5 @@
+print("Senior Project Developer Profile")
+print("Name: Kasope Odugbesan")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence")
+print("Skill Goal: Full-Stack Web Development")
